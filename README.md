@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/yanlucasblb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanlucasblb&show_icons=true&theme=clear&include_all_commits=true&count_private=true&custom_title=Esses são meus GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanlucasblb&layout=compact&langs_count=7&theme=clear&custom_title=Liguagens mais utilizadas "/>
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanlucasblb&layout=compact&langs_count=7&theme=clear&custom_title=Liguagens mais utilizadas"/>
 </div>
   
 <div style="display: inline_block"><br>
