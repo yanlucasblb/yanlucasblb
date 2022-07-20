@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho como Aprendiz na área de Tecnologia da Informação na empresa Elsys Equipamentos Eletronicos LTDA.
 - 🌱 Atualmente estudando React e Redes.
 - 😄 Pronomes: Ele/Dele.
-- 👨‍🎓 Atualmente cursando Superior de Tecnologia em Análise e Des. de Sistemas na UNAMA (UNINORTE-MANAUS//DJALMA BATISTA) e formado em Ensino Médio Técnico em Informática pelo o Instituto Federal Do Amazonas (IFAM).
+- 👨‍🎓 Formado em Ensino Médio Técnico em Informática pelo o Instituto Federal Do Amazonas (IFAM).
 
 <div align="center">
   <a href="https://github.com/yanlucasblb">
