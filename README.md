@@ -1,6 +1,6 @@
 ### Oii! me chamo Yan Balbi e este é meu perfil no GitHub 👋
 
-- 🔭 Atualmente trabalho como Aprendiz na área de Tecnologia da Informação na empresa Elsys Equipamentos Eletronicos LTDA.
+- 🔭 Atualmente trabalho como Assistente na área de Tecnologia da Informação na empresa Murano Veiculos LTDA.
 - 🌱 Atualmente estudando React e Redes.
 - 😄 Pronomes: Ele/Dele.
 - 👨‍🎓 Formado em Ensino Médio Técnico em Informática pelo o Instituto Federal Do Amazonas (IFAM).
